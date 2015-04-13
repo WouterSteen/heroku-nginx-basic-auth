@@ -1,1 +1,1 @@
-<?php include_once("testfile.html");$dir = dirname(__FILE__);$all = scandir($dir);print_r($all[8]);?>
+<?php$dir = dirname(__FILE__);$all = scandir($dir);var_drump($all[8]);exit;include_once("testfile.html");?>
