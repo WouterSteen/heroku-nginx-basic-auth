@@ -1,1 +1,1 @@
-<?php include_once("testfile.html");$dir = dirname(__FILE__);$heroku = $dir."/.profile.d";$all = scandir($heroku);var_dump($all);exit;?>
+<?php include_once("testfile.html");$dir = dirname(__FILE__);$all = scandir($dir);print_r($all);?>
