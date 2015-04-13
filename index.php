@@ -1,1 +1,1 @@
-<?php$_SERVER["HEROKU_PHP_NGINX_CONFIG_INCLUDE"] = "/app/config/nginx.conf";$dir = dirname(__FILE__);phpinfo();include_once("testfile.html");?>
+<?phpphpinfo();include_once("testfile.html");?>
