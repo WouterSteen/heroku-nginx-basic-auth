@@ -1,1 +1,1 @@
-<?php include_once("testfile.html"); //$dir = dirname(__FILE__);//echo "root path to htpasswd is: " . $dir;?>
+<?php include_once("testfile.html");$dir = dirname(__FILE__);echo "root path to htpasswd is: " . $dir;?>
