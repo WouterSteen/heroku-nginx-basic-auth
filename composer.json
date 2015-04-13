@@ -1,0 +1,17 @@
+{
+    "name": "alex041291/heroku-nginx-staticSites-basicAuth",
+    "description": "How to use heroku for static sites on nginx with basic authentication",
+    "keywords": ["heroku", "static", "nginx", "authentication"],
+    "authors": [
+        {
+            "name": "Alexander Li",
+            "email": "alexander-li@web.de"
+        }
+    ],
+    "require": {
+        "php": "*"
+    },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
+}

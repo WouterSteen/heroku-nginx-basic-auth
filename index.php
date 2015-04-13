@@ -1,1 +1,1 @@
-<?phpinclude_once("testfile.html");echo "server is nginx, basic auth is enabled";?>
+<?php include_once("testfile.html"); ?>
